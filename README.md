@@ -7,6 +7,8 @@ An AI-powered web application that simplifies complex legal documents into easy-
 ![React](https://img.shields.io/badge/react-19.x-blue)
 ![FastAPI](https://img.shields.io/badge/fastapi-0.100+-green)
 
+> ⚠️ **Important**: This project requires a **Hugging Face API key** to function. You'll need to add your own API key in the `backend/.env` file. Without a valid API key with Inference API providers enabled, the app will run in demo mode.
+
 ## 📋 Table of Contents
 
 - [Features](#features)
