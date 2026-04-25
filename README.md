@@ -117,7 +117,7 @@ Chatbot/
 1. **Start the backend server**
    ```bash
    cd backend
-   uvicorn main:app --reload
+   python -m uvicorn main:app --reload
    ```
    The API will be available at `http://localhost:8000`
 
