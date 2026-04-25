@@ -8,3 +8,4 @@ python-docx
 openai
 pydantic
 python-dotenv
+requests
